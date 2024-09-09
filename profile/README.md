@@ -1,12 +1,19 @@
-## Hi there 👋
+Welcome to 
+# **Kathmandu Info Tech**
 
-<!--
+`We are more than just a service provider; we are your strategic partner in navigating the dynamic landscape of digital innovation.`
 
-**Here are some ideas to get you started:**
+## What We Do
+- **Web Development**
+- **App Development**
+- **Branding & Advertising**
+- **Graphic Designing**
+- **Digital Marketing**
+- **SEO**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Programming Languages:
+<div>
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
+  <img width=50px src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">&nbsp;
+</div>
