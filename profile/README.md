@@ -5,7 +5,7 @@
 > **Your Trusted Digital Partner in Nepal and Beyond**  
 > At Kathmandu Infotech, we blend creativity, technology, and strategy to empower businesses in the ever-evolving digital world. With over 5 years of excellence, we've delivered 150+ projects to 100+ global clients across 7+ countries, achieving 99% client satisfaction. Our team of 50+ passionate professionals is dedicated to turning your vision into reality.
 
-## 🚀 About Us
+## About Us
 
 Founded in the heart of Kathmandu, Nepal, we are a full-service digital agency specializing in innovative solutions that drive growth and engagement. Our mission is to deliver exceptional digital experiences that exceed expectations, fostering long-term partnerships built on trust, innovation, and results.
 
@@ -21,7 +21,7 @@ To be the leading catalyst for digital transformation, creating a world where te
 
 We serve diverse industries including **e-commerce, healthcare, finance, banking, fintech, NGOs, and charitable organizations**, ensuring versatile expertise for every sector.
 
-## 🌟 What We Do
+## What We Do
 
 We offer end-to-end digital solutions designed to elevate your brand. Explore our core services:
 
@@ -37,7 +37,7 @@ We offer end-to-end digital solutions designed to elevate your brand. Explore ou
 
 > **Ready to transform your digital journey?** [Contact Us Today](https://kathmanduinfotech.com/contact) for a free consultation.
 
-## 🛠️ Technologies We Master
+## Technologies We Master
 
 We leverage the latest tools to deliver high-quality, future-proof solutions:
 
@@ -75,7 +75,7 @@ We leverage the latest tools to deliver high-quality, future-proof solutions:
 
 *Note: Our tech stack includes JavaScript, Python, Java, React, Node.js, Django, Flutter, and cloud services like AWS and Azure for seamless development.*
 
-## 📊 Our Impact at a Glance
+## Our Impact at a Glance
 
 <div align="center">
 
@@ -90,7 +90,7 @@ We leverage the latest tools to deliver high-quality, future-proof solutions:
 
 </div>
 
-## 📍 Get in Touch
+## Get in Touch
 
 - **Location**: Kathmandu, Nepal
 - **Email**: info@kathmanduinfotech.com
@@ -103,8 +103,8 @@ We leverage the latest tools to deliver high-quality, future-proof solutions:
 
 ---
 
-⭐ **Star this repo if you find it helpful!**  
-📝 **Contribute**: We welcome feedback and collaborations.  
-🔗 **Portfolio**: Check out our [work showcase](https://kathmanduinfotech.com/portfolio).
+**Star this repo if you find it helpful!**  
+**Contribute**: We welcome feedback and collaborations.  
+**Portfolio**: Check out our [work showcase](https://kathmanduinfotech.com/portfolio).
 
 *© 2025 Kathmandu Infotech Pvt. Ltd. All rights reserved.*
